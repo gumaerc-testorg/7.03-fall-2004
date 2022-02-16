@@ -3,8 +3,12 @@ content_type: resource
 description: This collection of problem sets given in past years is affectionately
   known as the 7.03 Bible. Using these along with the assignments will give the student
   a great deal of help in this class.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-03-genetics-fall-2004/e66b323c05198497e827163d9bb0844b_ps_1999_extra.pdf
+file: /media/courses/7-03-genetics-fall-2004/e66b323c05198497e827163d9bb0844b_ps_1999_extra.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: ps_1999_extra.pdf
 uid: e66b323c-0519-8497-e827-163d9bb0844b

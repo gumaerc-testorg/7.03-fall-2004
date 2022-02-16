@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Summary of topics covered in lecture.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-03-genetics-fall-2004/bea13d1303ae766a735385fd32b32de0_lecture29_30.pdf
+file: /media/courses/7-03-genetics-fall-2004/bea13d1303ae766a735385fd32b32de0_lecture29_30.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture29_30.pdf
 uid: bea13d13-03ae-766a-7353-85fd32b32de0
