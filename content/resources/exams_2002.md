@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: d36bbc09-9d2a-744e-a855-91169f13cc83
 resourcetype: Document
 title: exams_2002.pdf
 uid: 45a189b8-7e6f-e361-d9e3-03b218146d08

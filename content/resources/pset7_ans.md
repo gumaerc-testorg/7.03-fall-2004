@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 439282d7-2438-1439-aa2a-634bf6e6428c
 resourcetype: Document
 title: pset7_ans.pdf
 uid: f00bba24-13ac-10e9-5814-b86584bf639c
