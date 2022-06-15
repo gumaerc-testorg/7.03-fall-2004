@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Exams as per Lecture.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ exams
 Lectures 1-10
 {{< tdclose >}}
 {{< tdopen >}}
-Exam I ([PDF]({{< baseurl >}}/resources/exam1_2004))
+Exam I ({{% resource_link 261010b9-30ef-036b-9044-55a551be7515 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ Exam I ([PDF]({{< baseurl >}}/resources/exam1_2004))
 Lectures 11-18
 {{< tdclose >}}
 {{< tdopen >}}
-Exam II ([PDF]({{< baseurl >}}/resources/exam2_2004))
+Exam II ({{% resource_link ea40ecd3-1386-a01b-f13c-739b8d620689 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ Exam II ([PDF]({{< baseurl >}}/resources/exam2_2004))
 Lectures 19-30
 {{< tdclose >}}
 {{< tdopen >}}
-Exam III ([PDF]({{< baseurl >}}/resources/exam3_2004))
+Exam III ({{% resource_link ac5400c3-0344-d96c-e741-5590722c087e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
