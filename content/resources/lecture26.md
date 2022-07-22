@@ -5,6 +5,7 @@ file: /courses/7-03-genetics-fall-2004/c69b54ac1f7fc1ba7496cb2d1341621f_lecture2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture26.pdf
 uid: c69b54ac-1f7f-c1ba-7496-cb2d1341621f
 ---
 Summary of topics covered in lecture.
-

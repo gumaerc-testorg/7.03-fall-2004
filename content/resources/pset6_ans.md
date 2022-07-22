@@ -5,6 +5,7 @@ file: /courses/7-03-genetics-fall-2004/5b92b65369c9868045418580462a7dba_pset6_an
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pset6_ans.pdf
 uid: 5b92b653-69c9-8680-4541-8580462a7dba
 ---
 Solutions for assigned homework problems.
-

@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_dnamodel.jpg
 uid: 26761d98-3723-1a2e-cb5a-02edb91c0ef7
 ---
 CHP Image showing a DNA model.
-

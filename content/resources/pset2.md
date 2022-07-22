@@ -5,6 +5,7 @@ file: /courses/7-03-genetics-fall-2004/d40ae3f9cf729acf764c2186dca6b9da_pset2.pd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pset2.pdf
 uid: d40ae3f9-cf72-9acf-764c-2186dca6b9da
 ---
 Problem Set.
-
