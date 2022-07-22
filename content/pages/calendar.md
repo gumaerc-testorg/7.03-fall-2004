@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Topics and Key Dates as per Lecture
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 1256ab97-fa1f-8557-7043-dafd92699871
 ---
