@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem Set.
 file: /courses/7-03-genetics-fall-2004/79d13f75cda2da9a89358297533eaf9c_pset4.pdf
+file_size: 57547
 file_type: application/pdf
 learning_resource_types:
 - Assignments
