@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions for assigned homework problems.
 file: /courses/7-03-genetics-fall-2004/9c4d5eebbba875cb7f37e95a569bafb8_pset3_ans.pdf
+file_size: 148053
 file_type: application/pdf
 learning_resource_types:
 - Assignments

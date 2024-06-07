@@ -2,6 +2,7 @@
 content_type: resource
 description: Summary of topics covered in lecture.
 file: /courses/7-03-genetics-fall-2004/759b8d046e9ebe6699a8d2ace7a2a33a_lecture15.pdf
+file_size: 83129
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
