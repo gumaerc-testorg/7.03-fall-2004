@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set.
-file: /ol-ocw-studio-app/courses/7-03-genetics-fall-2004/f2728606d0b5bd8e3d36e7fa9b5c8154_pset1.pdf
+file: /courses/7-03-genetics-fall-2004/f2728606d0b5bd8e3d36e7fa9b5c8154_pset1.pdf
 file_size: 155686
 file_type: application/pdf
 learning_resource_types:

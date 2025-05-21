@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions for assigned homework problems.
-file: /ol-ocw-studio-app/courses/7-03-genetics-fall-2004/eadc26b07aa7d8989ca4a40b679d0bcd_pset5_ans.pdf
+file: /courses/7-03-genetics-fall-2004/eadc26b07aa7d8989ca4a40b679d0bcd_pset5_ans.pdf
 file_size: 141383
 file_type: application/pdf
 learning_resource_types:
