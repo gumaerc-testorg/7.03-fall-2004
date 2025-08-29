@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of topics covered in lecture.
-file: /courses/7-03-genetics-fall-2004/06f4311f650d5664b9ddb919e321c32c_lecture31.pdf
+file: /ol-ocw-studio-app/courses/7-03-genetics-fall-2004/06f4311f650d5664b9ddb919e321c32c_lecture31.pdf
 file_size: 99748
 file_type: application/pdf
 learning_resource_types:
