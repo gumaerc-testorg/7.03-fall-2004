@@ -21,7 +21,7 @@ There are no assigned readings for this class although we recommend the followin
 
 Griffiths, Anthony J. F., Jeffrey H. Miller, David T. Suzuki, Richard C. Lewontin, and William M. Gelbart. _An Introduction to Genetic Analysis_. 7th ed. New York: W. H. Freeman, 2000. ISBN: 9780716735205.
 
-Check out the National Center for Biotechnology Information ([NCBI](http://www.ncbi.nlm.nih.gov/)), [PubMed](http://www.ncbi.nlm.nih.gov/Literature/index.html), Web site for an [online version](http://www.ncbi.nlm.nih.gov/books/bv.fcgi?call=bv.View..ShowTOC&rid=iga.TOC) of this textbook.
+Check out the National Center for Biotechnology Information ({{% resource_link "c6fef5ab-96e5-4547-b9f6-da790c76dc7f" "NCBI" %}}), {{% resource_link "15be85dd-0065-448b-9766-eaf623520810" "PubMed" %}}, Web site for an {{% resource_link "ec30040e-743d-4ac1-acbd-7f11e2e61500" "online version" %}} of this textbook.
 
 Assignments and Exams
 ---------------------
